@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "workspaces": [
+        "react-app-rewire-css-modules",
+        "react-app-rewire-polyfills",
+        "react-app-rewire-raw-loader"
+    ]
+}

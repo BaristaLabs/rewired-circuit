@@ -1,0 +1,27 @@
+{
+  "name": "@baristalabs/react-app-rewire-raw-loader",
+  "version": "0.1.3",
+  "description": "Enable importing files as a string in a react-app-rewired application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baristalabs/rewired-circuit.git"
+  },
+  "keywords": [
+    "react",
+    "react-app-rewired",
+    "raw-loader"
+  ],
+  "author": "Sean McLellan <sean@baristalabs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baristalabs/rewired-circuit/issues"
+  },
+  "homepage": "https://github.com/baristalabs/rewired-circuit#readme",
+  "dependencies": {
+    "raw-loader": "0.5.1"
+  }
+}

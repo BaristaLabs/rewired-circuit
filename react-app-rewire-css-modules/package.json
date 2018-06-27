@@ -1,0 +1,36 @@
+{
+  "name": "@baristalabs/react-app-rewire-css-modules",
+  "version": "1.0.1",
+  "description": "Add CSS Module loaders to your create-react-app via react-app-rewired",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baristalabs/rewired-circuit.git"
+  },
+  "keywords": [
+    "react",
+    "react-app-rewired",
+    "sass",
+    "scss"
+  ],
+  "author": "Sean McLellan <sean@baristalabs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baristalabs/rewired-circuit/issues"
+  },
+  "homepage": "https://github.com/baristalabs/rewired-circuit#readme",
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0"
+  },
+  "devDependencies": {
+    "jest": "^23.2.0",
+    "sass-loader": "^7.0.3"
+  },
+  "peerDependencies": {
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.3"
+  }
+}

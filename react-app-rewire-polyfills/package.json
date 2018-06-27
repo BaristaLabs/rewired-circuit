@@ -1,0 +1,28 @@
+{
+    "name": "@baristalabs/react-app-rewire-polyfills",
+    "version": "0.3.2",
+    "description": "Rewire your react-app and use all babel-polyfill offers",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/baristalabs/rewired-circuit.git"
+    },
+    "keywords": [
+      "react",
+      "react-app-rewired",
+      "sass",
+      "scss"
+    ],
+    "author": "Sean McLellan <sean@baristalabs.io>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/baristalabs/rewired-circuit/issues"
+    },
+    "homepage": "https://github.com/baristalabs/rewired-circuit#readme",
+    "dependencies": {
+      "babel-polyfill": "^7.0.0-beta.3"
+    }
+  }
