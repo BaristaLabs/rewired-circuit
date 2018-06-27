@@ -1,6 +1,6 @@
 {
   "name": "@baristalabs/react-app-rewire-css-modules",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Add CSS Module loaders to your create-react-app via react-app-rewired",
   "main": "index.js",
   "scripts": {
